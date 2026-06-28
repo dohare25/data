@@ -16,7 +16,7 @@ and HIMU) from trace-element data for MORB and OIB basalts.
   - Selected trace-element concentrations and ratios used as features
 
 - `test_predictions.csv`  
-  Classification results for the 15 held-out test locations using a specific AutoML framework. Columns
+  Classification results for the 13 held-out test locations using a specific AutoML framework. Columns
   include:
   - Location name (held-out test data)
   - Sample identifier
